@@ -12,7 +12,7 @@ Time-based blind SQL injection extraction tool using binary search. Built for sc
 ## Install
 
 ```bash
-git clone https://github.com/YourUser/blind-sqli.git
+git clone https://github.com/TheHuskyHacker/blind_sql
 cd blind-sqli
 pip install requests
 ```
