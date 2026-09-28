@@ -6,8 +6,8 @@ import time
 import sys
 import string
 
-URL = "http://10.0.2.18/update-cart.php" #change this 
-COOKIE = {"PHPSESSID": "atp6445etllp7f7lre2fvul5g7"} #change this
+URL = "http://" #change this 
+COOKIE = {"": ""} #change this
 SLEEP_TIME = 5
 THRESHOLD = 4  # seconds — if response > this, condition is TRUE
 CHARSET = string.printable
